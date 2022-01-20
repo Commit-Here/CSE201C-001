@@ -1,3 +1,4 @@
+![5nnkrcc3kixypm642opg](https://user-images.githubusercontent.com/79296889/150340410-440d95b1-e08f-408c-afaf-433c34ac47fb.gif)
 # C++ Programming Lab
 ## Loops and Decisions
 
