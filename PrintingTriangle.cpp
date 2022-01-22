@@ -10,7 +10,7 @@ int main() {
     while (rows != 20 && cols != 20) {
         rows++, cols = 0;
         // print until both are equal.
-        while(rows != cols) {
+        while(2 * rows - 1 != cols) {
             cout<<"☮︎";
             cols++;
         } // while
