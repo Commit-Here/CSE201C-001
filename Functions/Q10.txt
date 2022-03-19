@@ -1,0 +1,33 @@
+Using static variable:     
+I have been called 1 times 
+I have been called 2 times 
+I have been called 3 times 
+I have been called 4 times 
+I have been called 5 times 
+I have been called 6 times 
+I have been called 7 times 
+I have been called 8 times 
+I have been called 9 times 
+I have been called 10 times
+I have been called 11 times
+I have been called 12 times
+I have been called 13 times
+I have been called 14 times
+I have been called 15 times
+
+Using global variable:
+I have been called 1 times
+I have been called 2 times
+I have been called 3 times
+I have been called 4 times
+I have been called 5 times
+I have been called 6 times
+I have been called 7 times
+I have been called 8 times
+I have been called 9 times
+I have been called 10 times
+I have been called 11 times
+I have been called 12 times
+I have been called 13 times
+I have been called 14 times
+I have been called 15 times

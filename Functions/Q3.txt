@@ -1,0 +1,3 @@
+Enter two numbers: 4 5
+Before: The numbers are 4 and 5
+After: The numbers are 0 and 5

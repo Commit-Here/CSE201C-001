@@ -1,0 +1,15 @@
+Number of values: 10
+Enter 10 values (one per line): 
+12
+3
+14
+29
+3
+59
+0
+11
+2
+34
+--------------
+Range: [0, 59]
+Standard Deviation: 17.8104

@@ -1,0 +1,3 @@
+Enter the distance in feet and inches (d1): 2 3
+Enter the distance in feet and inches (d2): 4 5
+Larger distance: 4 ft. 5 in.

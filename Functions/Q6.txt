@@ -1,0 +1,3 @@
+Enter the time (t1) in hours, minutes, and seconds: 1 1 1
+Enter the time (t2) in seconds: 60 
+The sum of t1 and t2 is: 1h 2m 1s

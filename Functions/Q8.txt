@@ -1,0 +1,4 @@
+Enter the first number: 10
+Enter the second number: 20
+Before swapping: 10 20    
+After swapping: 20 10
