@@ -1,0 +1,8 @@
+Enter the first time value (h m s): 1 2 3
+Enter the second time value (h m s): 4 5 6
+Before swapping: 
+1h 2m 3s
+4h 5m 6s
+After swapping:  
+4h 5m 6s
+1h 2m 3s

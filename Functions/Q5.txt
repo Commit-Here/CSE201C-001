@@ -1,0 +1,5 @@
+Enter the time in hours, minutes, and seconds (0 0 0 to quit): 3 6 9
+The time in seconds is 11169
+Enter the time in hours, minutes, and seconds (0 0 0 to quit): 4 3 11
+The time in seconds is 14591
+Enter the time in hours, minutes, and seconds (0 0 0 to quit):

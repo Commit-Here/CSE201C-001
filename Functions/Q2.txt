@@ -1,0 +1,3 @@
+Enter the number: 3
+Enter the power: 4
+The result is 81

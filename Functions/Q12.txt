@@ -1,0 +1,9 @@
+Choose one of the following operations: 
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+Your choice: 1
+Enter the numerator and denominator of the first fraction: 1 2
+Enter the numerator and denominator of the second fraction: 1 2
+The sum is: 4/4

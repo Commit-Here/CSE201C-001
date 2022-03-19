@@ -1,0 +1,44 @@
+Number of employees: 5
+
+[ Employee #1 ]
+Employee ID: E01
+Hourly wage: 15
+Hours worked: 20
+
+[ Employee #2 ]
+Employee ID: E02
+Hourly wage: 15
+Hours worked: 62
+
+[ Employee #3 ]
+Employee ID: E03
+Hourly wage: 15
+Hours worked: 10
+
+[ Employee #4 ]
+Employee ID: E04
+Hourly wage: 20
+Hours worked: 100
+
+[ Employee #5 ]
+Employee ID: E05
+Hourly wage: 20
+Hours worked: 80
+------------------
+ID: E01
+Net pay: 289.125
+------------------
+ID: E02
+Net pay: 1055.31
+------------------
+ID: E03
+Net pay: 144.562
+------------------
+ID: E04
+Net pay: 2505.75
+------------------
+ID: E05
+Net pay: 1927.5
+------------------
+Total payroll (incl. tax): 6145
+Average pay (incl. tax): 1229

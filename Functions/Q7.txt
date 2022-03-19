@@ -1,0 +1,7 @@
+Enter the number: 10.2
+Enter the power: 2
+The result is 104.04
+
+Enter the number: X
+Enter the power: 7
+The result is XXXXXXX

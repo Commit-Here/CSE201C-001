@@ -1,0 +1,35 @@
+Number of days: 26
+Enter 26 values (one per line/space seperated): 
+55 62 68 74 59 45 41 58 60 67 65 78 82 88 91
+92 90 93 87 80 78 79 72 68 61 59
+------------------    
+55 F ---> Cold day    
+62 F ---> Pleasant day
+68 F ---> Pleasant day
+74 F ---> Pleasant day
+59 F ---> Cold day
+45 F ---> Cold day
+41 F ---> Cold day
+58 F ---> Cold day
+60 F ---> Pleasant day
+67 F ---> Pleasant day
+65 F ---> Pleasant day
+78 F ---> Pleasant day
+82 F ---> Pleasant day
+88 F ---> Hot day
+91 F ---> Hot day
+92 F ---> Hot day
+90 F ---> Hot day
+93 F ---> Hot day
+87 F ---> Hot day
+80 F ---> Pleasant day
+78 F ---> Pleasant day
+79 F ---> Pleasant day
+72 F ---> Pleasant day
+68 F ---> Pleasant day
+61 F ---> Pleasant day
+59 F ---> Cold day
+------------------
+Hot days: 6
+Pleasant days: 14
+Cold days: 6

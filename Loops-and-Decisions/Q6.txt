@@ -1,0 +1,4 @@
+Number of guests: 6
+Number of chairs: 4
+------------------
+Number of arrangements possible: 360

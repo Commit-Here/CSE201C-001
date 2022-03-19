@@ -1,0 +1,16 @@
+Number of values: 10
+Enter 10 values (one per line): 
+12
+3
+14
+29
+3
+59
+0
+11
+2
+34
+--------------
+Smallest: 0
+Largest: 59
+Average: 16.7
